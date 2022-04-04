@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+:root {
+    --grey: #252525;
+    --gold: #EDCB68;
+    --text: #FEFEFE;
+}
+
+.container {
+    background-color: var(--grey);
+}
+
+html body {
+    background-color: var(--grey);
+}
+
+p {
+    color: var(--text);
+}
+
+h1, h2 {
+    color: var(--gold);
+}
+
+#footer {
+    background-color: var(--gold);
+    display: block;
+}
+
+#footer p {
+    color: #252525;
+}
