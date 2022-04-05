@@ -1,17 +1,17 @@
 @charset "UTF-8";
 
 :root {
-    --grey: #252525;
     --gold: #EDCB68;
+    --blue: #121528;
     --text: #FEFEFE;
 }
 
 .container {
-    background-color: var(--grey);
+    background-color: var(--blue);
 }
 
 html body {
-    background-color: var(--grey);
+    background-color: var(--blue);
 }
 
 p {
@@ -29,4 +29,10 @@ h1, h2 {
 
 #footer p {
     color: #252525;
+}
+
+#overview {
+    background-color: #3dd5f3;
+    height: 250px;
+    border: 1px solid white;
 }
