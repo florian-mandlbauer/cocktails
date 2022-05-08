@@ -2514,9 +2514,6 @@ ul#banners_grid li a.img_container .short_info p {
   float: right;
   font-size: 24px;
 }
-.payment_select#paypal {
-  background: #f0f0f0 url(../img/paypal_2.svg) center right no-repeat;
-}
 
 /* Confirm page */
 #confirm {
