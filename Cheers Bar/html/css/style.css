@@ -390,19 +390,6 @@ a.btn_play:hover {
   bottom: 0;
   z-index: 99;
 }
-.frame.white {
-  background: url(../img/frame_white.png) 0 0 repeat-x;
-  background-size: 10px 3px;
-}
-.frame.gray {
-  background: url(../img/frame_gray.png) 0 0 repeat-x;
-  background-size: 10px 3px;
-}
-.frame.black {
-  background: url(../img/frame_footer.png) 0 0 repeat-x;
-  background-size: 10px 3px;
-  top: -3px;
-}
 
 /* Header */
 header {
